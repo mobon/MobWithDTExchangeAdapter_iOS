@@ -1,0 +1,116 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "MobWithDTExchangeAdapter",
+    "printedName": "MobWithDTExchangeAdapter",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "OSLog",
+        "printedName": "OSLog",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "MobWithADSDKFramework",
+        "printedName": "MobWithADSDKFramework",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter"
+      },
+      {
+        "kind": "Import",
+        "name": "IASDKCore",
+        "printedName": "IASDKCore",
+        "declKind": "Import",
+        "moduleName": "MobWithDTExchangeAdapter"
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 394,
+      "length": 26,
+      "value": "\"MobWithDTExchangeAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 779,
+      "length": 26,
+      "value": "\"MobWithDTExchangeAdapter\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/DHLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 1049,
+      "length": 21,
+      "value": "\"yyyy-MM-dd HH:mm:ss\""
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 319,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 357,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 400,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "Array",
+      "offset": 602,
+      "length": 2,
+      "value": "[]"
+    }
+  ]
+}
