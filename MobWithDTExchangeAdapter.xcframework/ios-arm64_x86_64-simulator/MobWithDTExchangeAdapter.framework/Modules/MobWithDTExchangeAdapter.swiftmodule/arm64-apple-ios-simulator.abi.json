@@ -87,28 +87,28 @@
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
       "kind": "BooleanLiteral",
-      "offset": 319,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
-      "kind": "BooleanLiteral",
-      "offset": 357,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
-      "kind": "BooleanLiteral",
       "offset": 400,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 438,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
+      "kind": "BooleanLiteral",
+      "offset": 481,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/Users\/enliplemacbook\/Desktop\/MobMixer\/iOS Split\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter\/MobWithDTExchangeAdapter.swift",
       "kind": "Array",
-      "offset": 602,
+      "offset": 683,
       "length": 2,
       "value": "[]"
     }
